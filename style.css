@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif; 
+    
+}
+nav{
+    text-align: left;
+    display: block;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+table{
+    text-align: center;
+}
